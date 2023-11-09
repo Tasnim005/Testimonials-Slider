@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repository]()
-- Live Site URL: [Live Preview]()
+- Solution URL: [Repository](https://github.com/Tasnim005/Testimonials-Slider)
+- Live Site URL: [Live Preview](https://tasnim005.github.io/Testimonials-Slider/)
 
 ## My process
 
